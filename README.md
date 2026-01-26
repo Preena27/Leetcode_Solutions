@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/Preena27/Leetcode_Solutions/tree/master/0196-delete-duplicate-emails) |
+| [0262-trips-and-users](https://github.com/Preena27/Leetcode_Solutions/tree/master/0262-trips-and-users) |
 ## Hash Table
 |  |
 | ------- |
