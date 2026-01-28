@@ -28,4 +28,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Preena27/Leetcode_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
+## Array
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Preena27/Leetcode_Solutions/tree/master/0179-largest-number) |
+## String
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Preena27/Leetcode_Solutions/tree/master/0179-largest-number) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Preena27/Leetcode_Solutions/tree/master/0179-largest-number) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Preena27/Leetcode_Solutions/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
