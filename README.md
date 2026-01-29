@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Preena27/Leetcode_Solutions/tree/master/0179-largest-number) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Preena27/Leetcode_Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Greedy
 |  |
 | ------- |
@@ -44,4 +45,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Preena27/Leetcode_Solutions/tree/master/0179-largest-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Preena27/Leetcode_Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+## Design
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Preena27/Leetcode_Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+## Trie
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Preena27/Leetcode_Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
