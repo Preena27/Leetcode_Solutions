@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Preena27/Leetcode_Solutions/tree/master/0179-largest-number) |
+| [0238-product-of-array-except-self](https://github.com/Preena27/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 ## String
 |  |
 | ------- |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Preena27/Leetcode_Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Preena27/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
