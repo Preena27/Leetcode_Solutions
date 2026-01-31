@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/Preena27/Leetcode_Solutions/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/Preena27/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Preena27/Leetcode_Solutions/tree/master/0179-largest-number) |
+| [0221-maximal-square](https://github.com/Preena27/Leetcode_Solutions/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Preena27/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 ## String
 |  |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Preena27/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
+## Matrix
+|  |
+| ------- |
+| [0221-maximal-square](https://github.com/Preena27/Leetcode_Solutions/tree/master/0221-maximal-square) |
 <!---LeetCode Topics End-->
