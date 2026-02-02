@@ -68,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/Preena27/Leetcode_Solutions/tree/master/0221-maximal-square) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Preena27/Leetcode_Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 <!---LeetCode Topics End-->
