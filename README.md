@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Preena27/Leetcode_Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0310-minimum-height-trees](https://github.com/Preena27/Leetcode_Solutions/tree/master/0310-minimum-height-trees) |
 ## Design
 |  |
 | ------- |
@@ -72,4 +73,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Preena27/Leetcode_Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/Preena27/Leetcode_Solutions/tree/master/0310-minimum-height-trees) |
+## Graph Theory
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/Preena27/Leetcode_Solutions/tree/master/0310-minimum-height-trees) |
+## Topological Sort
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/Preena27/Leetcode_Solutions/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
