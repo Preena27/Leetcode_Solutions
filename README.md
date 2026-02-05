@@ -13,12 +13,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Preena27/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
+| [0341-flatten-nested-list-iterator](https://github.com/Preena27/Leetcode_Solutions/tree/master/0341-flatten-nested-list-iterator) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Preena27/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
+| [0341-flatten-nested-list-iterator](https://github.com/Preena27/Leetcode_Solutions/tree/master/0341-flatten-nested-list-iterator) |
 ## Binary Tree
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Preena27/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
+## Stack
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Preena27/Leetcode_Solutions/tree/master/0341-flatten-nested-list-iterator) |
+## Design
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Preena27/Leetcode_Solutions/tree/master/0341-flatten-nested-list-iterator) |
+## Queue
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Preena27/Leetcode_Solutions/tree/master/0341-flatten-nested-list-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Preena27/Leetcode_Solutions/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
