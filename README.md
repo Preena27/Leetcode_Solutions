@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Preena27/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
+| [0459-repeated-substring-pattern](https://github.com/Preena27/Leetcode_Solutions/tree/master/0459-repeated-substring-pattern) |
 ## Backtracking
 |  |
 | ------- |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Preena27/Leetcode_Solutions/tree/master/0429-n-ary-tree-level-order-traversal) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Preena27/Leetcode_Solutions/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
