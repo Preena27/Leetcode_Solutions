@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Preena27/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
+| [0388-longest-absolute-file-path](https://github.com/Preena27/Leetcode_Solutions/tree/master/0388-longest-absolute-file-path) |
 | [0402-remove-k-digits](https://github.com/Preena27/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [0459-repeated-substring-pattern](https://github.com/Preena27/Leetcode_Solutions/tree/master/0459-repeated-substring-pattern) |
 ## Backtracking
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Preena27/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/Preena27/Leetcode_Solutions/tree/master/0341-flatten-nested-list-iterator) |
+| [0388-longest-absolute-file-path](https://github.com/Preena27/Leetcode_Solutions/tree/master/0388-longest-absolute-file-path) |
 ## Binary Tree
 |  |
 | ------- |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/Preena27/Leetcode_Solutions/tree/master/0341-flatten-nested-list-iterator) |
+| [0388-longest-absolute-file-path](https://github.com/Preena27/Leetcode_Solutions/tree/master/0388-longest-absolute-file-path) |
 | [0402-remove-k-digits](https://github.com/Preena27/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 ## Design
 |  |
