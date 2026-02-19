@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Preena27/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/Preena27/Leetcode_Solutions/tree/master/0401-binary-watch) |
 | [0491-non-decreasing-subsequences](https://github.com/Preena27/Leetcode_Solutions/tree/master/0491-non-decreasing-subsequences) |
 ## Tree
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Preena27/Leetcode_Solutions/tree/master/0371-sum-of-two-integers) |
+| [0401-binary-watch](https://github.com/Preena27/Leetcode_Solutions/tree/master/0401-binary-watch) |
 | [0491-non-decreasing-subsequences](https://github.com/Preena27/Leetcode_Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Preena27/Leetcode_Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 ## Math
