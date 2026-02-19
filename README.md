@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Preena27/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/Preena27/Leetcode_Solutions/tree/master/0491-non-decreasing-subsequences) |
 ## Hash Table
 |  |
@@ -80,4 +81,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Preena27/Leetcode_Solutions/tree/master/0371-sum-of-two-integers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Preena27/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Preena27/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Preena27/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Preena27/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
