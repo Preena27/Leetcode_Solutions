@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Preena27/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Preena27/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0388-longest-absolute-file-path](https://github.com/Preena27/Leetcode_Solutions/tree/master/0388-longest-absolute-file-path) |
 | [0402-remove-k-digits](https://github.com/Preena27/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [0459-repeated-substring-pattern](https://github.com/Preena27/Leetcode_Solutions/tree/master/0459-repeated-substring-pattern) |
@@ -19,18 +20,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Preena27/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Preena27/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/Preena27/Leetcode_Solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Preena27/Leetcode_Solutions/tree/master/0429-n-ary-tree-level-order-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Preena27/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Preena27/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/Preena27/Leetcode_Solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0388-longest-absolute-file-path](https://github.com/Preena27/Leetcode_Solutions/tree/master/0388-longest-absolute-file-path) |
 ## Binary Tree
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Preena27/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Preena27/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -41,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Preena27/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Preena27/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/Preena27/Leetcode_Solutions/tree/master/0341-flatten-nested-list-iterator) |
 ## Queue
 |  |
@@ -53,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Preena27/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Preena27/Leetcode_Solutions/tree/master/0429-n-ary-tree-level-order-traversal) |
 ## String Matching
 |  |
