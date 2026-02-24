@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Preena27/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/Preena27/Leetcode_Solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Preena27/Leetcode_Solutions/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Preena27/Leetcode_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -31,11 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Preena27/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/Preena27/Leetcode_Solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0388-longest-absolute-file-path](https://github.com/Preena27/Leetcode_Solutions/tree/master/0388-longest-absolute-file-path) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Preena27/Leetcode_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Preena27/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Preena27/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Preena27/Leetcode_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Stack
 |  |
 | ------- |
