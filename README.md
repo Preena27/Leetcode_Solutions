@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Preena27/Leetcode_Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1980-find-unique-binary-string](https://github.com/Preena27/Leetcode_Solutions/tree/master/1980-find-unique-binary-string) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Preena27/Leetcode_Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Preena27/Leetcode_Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Preena27/Leetcode_Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Hash Table
 |  |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Preena27/Leetcode_Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Preena27/Leetcode_Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Preena27/Leetcode_Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Preena27/Leetcode_Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Recursion
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Preena27/Leetcode_Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Preena27/Leetcode_Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Preena27/Leetcode_Solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Preena27/Leetcode_Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Binary Search
 |  |
 | ------- |
