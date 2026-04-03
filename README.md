@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/Preena27/Leetcode_Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Preena27/Leetcode_Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Preena27/Leetcode_Solutions/tree/master/3643-flip-square-submatrix-vertically) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Preena27/Leetcode_Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Preena27/Leetcode_Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2751-robot-collisions](https://github.com/Preena27/Leetcode_Solutions/tree/master/2751-robot-collisions) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Preena27/Leetcode_Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Preena27/Leetcode_Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Preena27/Leetcode_Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Preena27/Leetcode_Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Preena27/Leetcode_Solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Preena27/Leetcode_Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Sliding Window
 |  |
 | ------- |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Preena27/Leetcode_Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Preena27/Leetcode_Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Enumeration
 |  |
 | ------- |
