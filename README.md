@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/Preena27/Leetcode_Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Preena27/Leetcode_Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/Preena27/Leetcode_Solutions/tree/master/1980-find-unique-binary-string) |
+| [2463-minimum-total-distance-traveled](https://github.com/Preena27/Leetcode_Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/Preena27/Leetcode_Solutions/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/Preena27/Leetcode_Solutions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Preena27/Leetcode_Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/Preena27/Leetcode_Solutions/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Preena27/Leetcode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Preena27/Leetcode_Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2463-minimum-total-distance-traveled](https://github.com/Preena27/Leetcode_Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/Preena27/Leetcode_Solutions/tree/master/2751-robot-collisions) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Preena27/Leetcode_Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Preena27/Leetcode_Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Preena27/Leetcode_Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2463-minimum-total-distance-traveled](https://github.com/Preena27/Leetcode_Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Preena27/Leetcode_Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Preena27/Leetcode_Solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Preena27/Leetcode_Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
