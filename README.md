@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Preena27/Leetcode_Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Preena27/Leetcode_Solutions/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Preena27/Leetcode_Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Preena27/Leetcode_Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Preena27/Leetcode_Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Backtracking
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Preena27/Leetcode_Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/Preena27/Leetcode_Solutions/tree/master/1980-find-unique-binary-string) |
 | [2463-minimum-total-distance-traveled](https://github.com/Preena27/Leetcode_Solutions/tree/master/2463-minimum-total-distance-traveled) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Preena27/Leetcode_Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2751-robot-collisions](https://github.com/Preena27/Leetcode_Solutions/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/Preena27/Leetcode_Solutions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Preena27/Leetcode_Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
