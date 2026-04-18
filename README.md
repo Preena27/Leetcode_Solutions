@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Preena27/Leetcode_Solutions/tree/master/0371-sum-of-two-integers) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Preena27/Leetcode_Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Preena27/Leetcode_Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Preena27/Leetcode_Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
