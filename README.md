@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/Preena27/Leetcode_Solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0388-longest-absolute-file-path](https://github.com/Preena27/Leetcode_Solutions/tree/master/0388-longest-absolute-file-path) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Preena27/Leetcode_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Preena27/Leetcode_Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Preena27/Leetcode_Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Binary Tree
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Preena27/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Preena27/Leetcode_Solutions/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Preena27/Leetcode_Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## String Matching
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Preena27/Leetcode_Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0874-walking-robot-simulation](https://github.com/Preena27/Leetcode_Solutions/tree/master/0874-walking-robot-simulation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Preena27/Leetcode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Preena27/Leetcode_Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Preena27/Leetcode_Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Preena27/Leetcode_Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Preena27/Leetcode_Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Preena27/Leetcode_Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Preena27/Leetcode_Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Preena27/Leetcode_Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Preena27/Leetcode_Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -263,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Preena27/Leetcode_Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Preena27/Leetcode_Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Trie
 |  |
