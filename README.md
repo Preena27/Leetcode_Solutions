@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Preena27/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Preena27/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/Preena27/Leetcode_Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0874-walking-robot-simulation](https://github.com/Preena27/Leetcode_Solutions/tree/master/0874-walking-robot-simulation) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Preena27/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0371-sum-of-two-integers](https://github.com/Preena27/Leetcode_Solutions/tree/master/0371-sum-of-two-integers) |
 | [0788-rotated-digits](https://github.com/Preena27/Leetcode_Solutions/tree/master/0788-rotated-digits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Preena27/Leetcode_Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Preena27/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Preena27/Leetcode_Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Preena27/Leetcode_Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Preena27/Leetcode_Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
