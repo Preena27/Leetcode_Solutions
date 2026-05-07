@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Preena27/Leetcode_Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Preena27/Leetcode_Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Preena27/Leetcode_Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/Preena27/Leetcode_Solutions/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Preena27/Leetcode_Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/Preena27/Leetcode_Solutions/tree/master/1980-find-unique-binary-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Preena27/Leetcode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Preena27/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0696-count-binary-substrings](https://github.com/Preena27/Leetcode_Solutions/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Preena27/Leetcode_Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/Preena27/Leetcode_Solutions/tree/master/1861-rotating-the-box) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Preena27/Leetcode_Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Data Stream
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Preena27/Leetcode_Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Preena27/Leetcode_Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Preena27/Leetcode_Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1861-rotating-the-box](https://github.com/Preena27/Leetcode_Solutions/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Preena27/Leetcode_Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Preena27/Leetcode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2906-construct-product-matrix](https://github.com/Preena27/Leetcode_Solutions/tree/master/2906-construct-product-matrix) |
