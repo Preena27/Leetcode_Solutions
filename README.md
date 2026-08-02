@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Preena27/Leetcode_Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0706-design-hashmap](https://github.com/Preena27/Leetcode_Solutions/tree/master/0706-design-hashmap) |
 | [0874-walking-robot-simulation](https://github.com/Preena27/Leetcode_Solutions/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/Preena27/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Preena27/Leetcode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Preena27/Leetcode_Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Preena27/Leetcode_Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Preena27/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0371-sum-of-two-integers](https://github.com/Preena27/Leetcode_Solutions/tree/master/0371-sum-of-two-integers) |
 | [0788-rotated-digits](https://github.com/Preena27/Leetcode_Solutions/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/Preena27/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Preena27/Leetcode_Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Preena27/Leetcode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Preena27/Leetcode_Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0788-rotated-digits](https://github.com/Preena27/Leetcode_Solutions/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/Preena27/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Preena27/Leetcode_Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-total-distance-traveled](https://github.com/Preena27/Leetcode_Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Preena27/Leetcode_Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -309,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/Preena27/Leetcode_Solutions/tree/master/0706-design-hashmap) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Preena27/Leetcode_Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
